@@ -1,0 +1,3 @@
+2024-11-05 17:24:07,049 - INFO - Copied: source\QA_Integration_team_test_task.pdf to replica\QA_Integration_team_test_task.pdf
+2024-11-05 17:24:12,053 - INFO - Copied: source\Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf to replica\Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf
+2024-11-05 17:24:27,080 - INFO - Copied: source\Email.txt to replica\Email.txt

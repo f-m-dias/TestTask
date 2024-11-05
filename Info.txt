@@ -1,0 +1,5 @@
+Command line while in project directory is:
+python main.py /path/to/source /path/to/replica /path/to/logs/sync_log.txt 10
+
+Example:
+python main.py source replica logs/sync_log.txt 10

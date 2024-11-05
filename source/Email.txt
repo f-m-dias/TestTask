@@ -1,0 +1,65 @@
+Dear Fábio,
+
+My name is Artem and I am an IT Recruiter at Veeam Software. 
+
+Thank you for your interest in the position of the Developer in QA position in our company.
+
+We are currently looking for a new colleague to join our QA Automation Team.
+
+Currently we have two main QA Automation streams that use different programming languages - Python, PowerShell and C#.
+
+Internal Development in QA (SDET) 
+
+QA Integration 
+
+ 
+
+The Internal Development in QA Team creates:
+
+-   module tests to analyze the product in depth,
+
+-   end-to-end performance tests, where we require automated metrics,
+
+-   internal web services when the available solutions are not good enough,
+
+-   REST API tests every time a REST API appears on the horizon,
+
+-   tools and utilities, both for internal use and on request from other teams.
+
+The main tools we use are: VMware vSphere, cloud solutions (AWS, Azure and Google Cloud), GitLab, TestRail, Artifactory, Jenkins, Postman.
+
+Most common language in the team is Python (Pytest, Django) and C#. PowerShell is also used when Python is not powerful enough. We are not looking for a guru in all of that but for a beginner who knows at least one of the languages and has burning desire to study more.
+
+This team creates automated end-to-end tests using PowerShell or C#, and sometimes Bash or Python for specific cases.
+
+We simplify defect detection in compatibility and integration with third-party products by automating regression tests. We also automate testing for our flagship product – Veeam Backup & Replication.
+
+We rely heavily on our technical expertise and are constantly learning new things about infrastructure and the latest cutting-edge technologies available on the global market. Our engineers also set up, configure and support test infrastructure based on hardware and software supplied by Veeam’s partners, who are market leaders in their field.
+
+We work with the following products and technologies: VMware vSphere, Microsoft Hyper-V, storages, tape libraries, clouds, Windows, Linux and Mac OSes.
+
+ 
+
+After reviewing your CV, we would like to ask you to look through the team descriptions and, depending on which programming language you are more interested in (Python, PowerShell and C#), try to solve the applicable test task.
+
+You will find the documents with the tasks attached to this e-mail.
+
+Please choose one file with a test task and one programming language.
+
+We don’t set strict deadlines. This task usually takes about 3-5 days, but the quality of your solution is more important than the speed of your response.
+
+When you are ready, please send us a GitHub link.
+
+In case of any questions feel free to contact me, we can discuss it via email or have a call.
+
+Please also acknowledge receiving this e-mail and whether the position is relevant to you. 
+
+To find out more information about our company, please visit our website or check out our new career opportunities here.
+Detailed information about our QA department can be found here.
+Follow us on social media: Facebook, Instagram.
+Good luck! 
+
+Best regards,
+
+Artem Kuksin
+Talent Acquisition Partner
